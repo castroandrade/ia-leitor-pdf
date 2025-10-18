@@ -1,0 +1,31 @@
+### Exemplos de Sentenças (Perguntas) para o Chatbot sobre Arquitetura de Microsserviços ###
+
+Este arquivo contém exemplos de sentenças que podem ser feitas ao chatbot para testar seu conhecimento com base nos artigos em PDF carregados.
+
+---
+# Perguntas Conceituais (Baseadas no artigo de Martin Fowler)
+---
+
+O que é a arquitetura de microsserviços?
+Quais são as principais características de uma arquitetura de microsserviços?
+Qual a diferença entre a arquitetura de microsserviços e a arquitetura monolítica?
+Explique o conceito de "Bounded Context" (Contexto Delimitado) em microsserviços.
+Como a cultura de DevOps se relaciona com microsserviços?
+Os componentes em uma arquitetura de microsserviços podem ser substituídos?
+Como funciona a descentralização da governança de dados?
+
+---
+# Perguntas sobre Desafios e Práticas (Baseadas na revisão sistemática)
+---
+
+Quais são os desafios mais comuns na adoção da arquitetura de microsserviços na indústria?
+Fale sobre os desafios relacionados ao gerenciamento de dados distribuídos.
+Quais são as dificuldades em testar um sistema baseado em microsserviços?
+Como a comunicação entre serviços pode se tornar um desafio?
+A complexidade operacional é um problema em microsserviços?
+
+---
+# Pergunta de Teste (Fora do Escopo dos Documentos)
+---
+
+Qual a melhor linguagem de programação para desenvolver um site de e-commerce?
